@@ -1,6 +1,5 @@
-# OOAD at NaUKMA 
-### 2018 Edition
+## OOAD at NaUKMA 2018 Edition
 
-#### [Course Dashboard](https://kmaooad18.github.io) :arrow_upper_right:
+#### [Go to course dashboard](https://kmaooad18.github.io)
 
 *More info TBD*
