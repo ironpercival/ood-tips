@@ -5,36 +5,27 @@ copyright = "Anton Shabinskiy"
 theme = "hugo-paper"
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = -100
+    name = "Tutorial"
+    url = "/tutorial/"
+    weight = -140
 
   [[menu.main]]
-    identifier = "basic"
-    name = "Basic track"
-    url = "/basic"
+    name = "Glossary"
+    url = "/glossary/"
     weight = -130
 
   [[menu.main]]
-    identifier = "advanced"
-    name = "Advanced track"
-    url = "/advanced"
+    name = "Posts"
+    url = "/posts/"
     weight = -120
-
-  [[menu.main]]
-    parent = "basic"
-    name = "Tutorial"
-    url = "/basic/tutorial/"
-    weight = -110
-
-  [[menu.main]]
-    parent = "basic"
-    name = "Glossary"
-    url = "/basic/glossary/"
-    weight = -100
 
   [[menu.main]]
     name = "University course"
     url = "/naukma/"
-    weight = -90
+    weight = -110
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = -100

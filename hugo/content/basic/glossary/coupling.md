@@ -1,5 +1,0 @@
-+++
-title = "Coupling"
-+++
-
-# Coupling
