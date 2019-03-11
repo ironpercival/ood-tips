@@ -1,7 +1,13 @@
 {{ partial "header.html" . }}
 {{ if not .IsHome }}
 <header class="list-header">
-  {{ if eq .Data.Singular "tag" }}<span>Tagged in</span>
+  {{ if eq .Data.Plural "tutorial" }}
+  {{ if .Data.Term }}<span>Tutorial</span>
+  <h1 class="list-title">{{ .Data.Term }}</h1>
+  {{ else }}
+  <h1 class="list-title">Tutorial</h1>
+  {{ end }}
+  {{ else if eq .Data.Singular "tag" }}<span>Tagged in</span>
   <h1 class="list-title">{{ .Data.Term }}</h1>
   {{ else }}<h1 class="list-title">Posts</h1>
   {{ end }}
