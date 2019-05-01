@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tremplin Edu | Software Design Ideas</title>
+    <link>https://ood.tips/tags/</link>
+    <description>Recent content in Tags on Tremplin Edu | Software Design Ideas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Anton Shabinskiy</copyright>
+    <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ood.tips/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Di</title>
+      <link>https://ood.tips/tags/di/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ood.tips/tags/di/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
