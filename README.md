@@ -1,1 +1,0 @@
-Site hosting for [ood.tips](https://ood.tips). This repo is used only as GitHub Pages hosting. Content of this repo is Hugo output generated from complementary [ood-tips-src](https://github.com/tremplin-edu/ood-tips-src) repo. Use ood-tips-src repo for discussions, reporing issues, or contributing.

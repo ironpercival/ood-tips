@@ -3,73 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ood.tips/posts/responsibilities-and-di/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <loc>https://example.com/book/0-Foreword/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ood.tips/about/</loc>
+    <loc>https://example.com/book/1-Introduction/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ood.tips/categories/advanced/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://example.com/book/2-TBD/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ood.tips/categories/blog/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://example.com/book/3-TBD/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ood.tips/categories/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://example.com/book/4-Encapsulation/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ood.tips/tags/di/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://example.com/book/5-TBD/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ood.tips/format/</loc>
-    <priority>0</priority>
+    <loc>https://example.com/book/6-TBD/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ood.tips/ukma/</loc>
+    <loc>https://example.com/book/7-TBD/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ood.tips/posts/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://example.com/book/8-TBD/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ood.tips/tags/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://example.com/book/9-TBD/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ood.tips/tutorial/</loc>
-    <priority>0</priority>
+    <loc>https://example.com/book/10-TBD/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ood.tips/format/verbose/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://example.com/book/11-TBD/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ood.tips/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <loc>https://example.com/book/12-TBD/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/book/13-TBD/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/book/14-TBD/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/book/15-TBD/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2019-08-23T11:45:44+03:00</lastmod>
   </url>
   
 </urlset>
